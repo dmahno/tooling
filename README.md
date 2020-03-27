@@ -60,7 +60,7 @@ Array.isArray(collection) ? collection.map(fn) : _.map(collection,fn);
 ```json
 {
   "rules": {
-    "lodash-to-native/map": 2
+    "lodash-to-native/map": "warn"
   }
 }
 ```
