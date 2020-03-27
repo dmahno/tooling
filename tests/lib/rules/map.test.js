@@ -8,13 +8,6 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-var rule = require('../../../lib/rules/map'),
-  RuleTester = require('eslint').RuleTester;
-
-//------------------------------------------------------------------------------
-// Tests
-//------------------------------------------------------------------------------
-
 const rules = require('../../../lib/rules/map');
 const RuleTester = require('eslint').RuleTester;
 
